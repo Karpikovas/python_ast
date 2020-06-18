@@ -1,0 +1,17 @@
+class C:
+	def __init__(self, a, b, c):
+		a = a
+		b = b * 2
+		c = c * 10
+
+	def meth1(self, a, b, c):
+		a = [1, 2, 3, True, a < 6]
+		c = 5 + 3
+		self.test(6, 7, 8)
+		return 2
+
+def test():
+	while i < 15:
+		print("Step " , i)
+		i = i + 2
+		continue

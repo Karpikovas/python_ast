@@ -1,0 +1,3 @@
+﻿  Parser.cpp
+d:\универ\лабораторные\3 курс\проектная деятельность\6 семестр\python\python\parser.cpp(172): warning C4715: Parser::parseBinaryExpression: значение возвращается не при всех путях выполнения
+  Python.vcxproj -> D:\Универ\Лабораторные\3 курс\Проектная деятельность\6 семестр\Python\Debug\Python.exe
